@@ -1,0 +1,15 @@
+C:\Users\TREIDCOMPUTERS\Downloads\Университет\Зяп (с)\C#\Task07\bin\Debug\net6.0\Task07.exe
+C:\Users\TREIDCOMPUTERS\Downloads\Университет\Зяп (с)\C#\Task07\bin\Debug\net6.0\Task07.deps.json
+C:\Users\TREIDCOMPUTERS\Downloads\Университет\Зяп (с)\C#\Task07\bin\Debug\net6.0\Task07.runtimeconfig.json
+C:\Users\TREIDCOMPUTERS\Downloads\Университет\Зяп (с)\C#\Task07\bin\Debug\net6.0\Task07.dll
+C:\Users\TREIDCOMPUTERS\Downloads\Университет\Зяп (с)\C#\Task07\bin\Debug\net6.0\Task07.pdb
+C:\Users\TREIDCOMPUTERS\Downloads\Университет\Зяп (с)\C#\Task07\obj\Debug\net6.0\Task07.csproj.AssemblyReference.cache
+C:\Users\TREIDCOMPUTERS\Downloads\Университет\Зяп (с)\C#\Task07\obj\Debug\net6.0\Task07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TREIDCOMPUTERS\Downloads\Университет\Зяп (с)\C#\Task07\obj\Debug\net6.0\Task07.AssemblyInfoInputs.cache
+C:\Users\TREIDCOMPUTERS\Downloads\Университет\Зяп (с)\C#\Task07\obj\Debug\net6.0\Task07.AssemblyInfo.cs
+C:\Users\TREIDCOMPUTERS\Downloads\Университет\Зяп (с)\C#\Task07\obj\Debug\net6.0\Task07.csproj.CoreCompileInputs.cache
+C:\Users\TREIDCOMPUTERS\Downloads\Университет\Зяп (с)\C#\Task07\obj\Debug\net6.0\Task07.dll
+C:\Users\TREIDCOMPUTERS\Downloads\Университет\Зяп (с)\C#\Task07\obj\Debug\net6.0\refint\Task07.dll
+C:\Users\TREIDCOMPUTERS\Downloads\Университет\Зяп (с)\C#\Task07\obj\Debug\net6.0\Task07.pdb
+C:\Users\TREIDCOMPUTERS\Downloads\Университет\Зяп (с)\C#\Task07\obj\Debug\net6.0\Task07.genruntimeconfig.cache
+C:\Users\TREIDCOMPUTERS\Downloads\Университет\Зяп (с)\C#\Task07\obj\Debug\net6.0\ref\Task07.dll
