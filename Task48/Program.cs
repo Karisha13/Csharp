@@ -7,7 +7,7 @@ int[,] Get2DArray(int m, int n)//создаёт двумерный массив
     {
         for (int j = 0; j < n; j++)
         {
-            array[i, j] = i + j;
+            array[i, j] = i + j; //выводит числа по порядку
         }
     }
     return array;

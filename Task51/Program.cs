@@ -3,7 +3,7 @@
 
 int[,] Get2DArray(int cols, int rows, int min, int max)//создаёт двумерный массив
 {
-    int[,] array = new int[cols, rows];
+    int[,] array = new int[rows, cols];
     for (int i = 0; i < rows; i++)
     {
         for (int j = 0; j < cols; j++)
@@ -47,6 +47,6 @@ int SumDiagonalArray(int[,] array)
     return result;
 }
 
-int[,] arr = Get2DArray(5, 5, 0, 10);
+int[,] arr = Get2DArray(5, 10, 0, 10);
 Print2DArray(arr);
 System.Console.WriteLine(SumDiagonalArray(arr));
